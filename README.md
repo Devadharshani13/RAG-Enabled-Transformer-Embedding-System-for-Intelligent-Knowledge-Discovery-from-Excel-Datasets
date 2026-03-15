@@ -283,5 +283,3 @@ Trainer: **Vidhya**
 ---
 
 ⭐ Transforming spreadsheet data into intelligent conversational insights.
-
-```
