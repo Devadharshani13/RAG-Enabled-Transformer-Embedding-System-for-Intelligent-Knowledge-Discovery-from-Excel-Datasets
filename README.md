@@ -233,15 +233,6 @@ excel-rag-system
 
 # 🚀 Installation
 
-## Clone Repository
-
-```bash
-git clone https://github.com/Sriiraam/your-repo-name.git
-cd your-repo-name
-````
-
----
-
 ## Backend Setup
 
 ```bash
