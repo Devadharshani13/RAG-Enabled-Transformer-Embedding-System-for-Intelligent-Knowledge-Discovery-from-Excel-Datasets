@@ -1,6 +1,7 @@
 # Advanced RAG-Enabled Transformer Embedding System
 ### Intelligent Knowledge Discovery from Excel Datasets  
 AI-Powered Data Querying • Semantic Search • Explainable Insights
+
 ![image_alt](https://github.com/Devadharshani13/RAG-Enabled-Transformer-Embedding-System-for-Intelligent-Knowledge-Discovery-from-Excel-Datasets/blob/main/Screenshots%20of%20working/Login%20Page.png?raw=true)
 
 
@@ -125,6 +126,8 @@ Frontend Visualization
 ---
 
 # 📈 Example Query
+
+![image_alt](https://github.com/Devadharshani13/RAG-Enabled-Transformer-Embedding-System-for-Intelligent-Knowledge-Discovery-from-Excel-Datasets/blob/main/Screenshots%20of%20working/upload%20multiple%20files%20and%20comparing%20of%20it.png?raw=true)
 
 ### User Query
 
@@ -282,4 +285,3 @@ Trainer: **Vidhya**
 ⭐ Transforming spreadsheet data into intelligent conversational insights.
 
 ```
-
